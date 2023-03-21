@@ -15,7 +15,7 @@ namespace TugasClassTaxi
 
             // Pengesetan nilai properties
             taxi.DriverName = "Jono";
-            taxi.OnDuty = true;
+            taxi.OnDuty = false;
             taxi.Numpassanger = 10;
 
             // Panggilan Method
